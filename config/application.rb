@@ -21,7 +21,7 @@ Rails.application.configure do
   config.datetime_format = '%l:%M %p on %B %e, %Y'
 
   # Uniqnames of DCO staff who can edit
-  config.administrators = [:victorbp, :laura, :don, :lrandolp, :hugh, :jvanlav, :liz, :dholt, :stander, :cpuzzuol, :pbhill, :gkroslak, :hayjacob, :jribben, :kowalskj]
+  config.administrators = [:victorbp, :laura, :don, :lrandolp, :hugh, :jvanlav, :liz, :dholt, :stander, :cpuzzuol, :pbhill, :gkroslak, :hayjacob, :jribben, :kowalskj, :josuegon]
 
   # number of items to show on index/listing pages (numbers greater than this
   # result in the page being split into multiple sub-pages)
