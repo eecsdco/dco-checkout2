@@ -94,7 +94,7 @@ GEM
     minitest (5.15.0)
     mysql2 (0.5.3)
     nio4r (2.5.8)
-    nokogiri (1.13.4-x86_64-linux)
+    nokogiri (1.13.9-x86_64-linux)
       racc (~> 1.4)
     passenger (6.0.13)
       rack
